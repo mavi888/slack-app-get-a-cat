@@ -1,0 +1,6 @@
+
+.npmignore
+
+
+.serverless/
+node_modules/
